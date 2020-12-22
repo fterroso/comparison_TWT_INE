@@ -1,0 +1,14 @@
+numpy==1.11.0
+matplotlib==3.0.3
+pandas==0.24.2
+tqdm==4.23.4
+scipy==1.0.1
+dask==2020.12.0
+dtw==1.4.0
+geoalchemy2==0.8.4
+geopandas==0.8.1
+modin==0.8.2
+seaborn==0.11.1
+Shapely==1.7.1
+scikit_learn==0.23.2
+statsmodels==0.12.1
